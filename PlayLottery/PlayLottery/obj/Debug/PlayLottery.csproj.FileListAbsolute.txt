@@ -1,0 +1,7 @@
+D:\CodeGym-ThucHanh\PlayLottery\PlayLottery\bin\Debug\PlayLottery.exe.config
+D:\CodeGym-ThucHanh\PlayLottery\PlayLottery\bin\Debug\PlayLottery.exe
+D:\CodeGym-ThucHanh\PlayLottery\PlayLottery\bin\Debug\PlayLottery.pdb
+D:\CodeGym-ThucHanh\PlayLottery\PlayLottery\obj\Debug\PlayLottery.csprojResolveAssemblyReference.cache
+D:\CodeGym-ThucHanh\PlayLottery\PlayLottery\obj\Debug\PlayLottery.csproj.CoreCompileInputs.cache
+D:\CodeGym-ThucHanh\PlayLottery\PlayLottery\obj\Debug\PlayLottery.exe
+D:\CodeGym-ThucHanh\PlayLottery\PlayLottery\obj\Debug\PlayLottery.pdb
